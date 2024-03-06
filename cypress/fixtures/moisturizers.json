@@ -1,0 +1,9 @@
+{
+    "moisturizers": [
+      { "name": "Jose Intensive Care Aloe Body Lotion", "containsAloe": true, "price": 216 },
+      { "name": "Wilhelm Aloe Hydration Lotion", "containsAloe": true, "price": 365 },
+      { "name": "Mikhail Natural Almond Moisturizer", "containsAlmond": true, "price": 220 },
+      { "name": "Max honey and almond moisturiser", "containsAlmond": true, "price": 195 },
+      { "name": "Emmanuel Aloe Vera Beauty Gel", "containsAloe": true, "price": 299 }
+    ]
+}
